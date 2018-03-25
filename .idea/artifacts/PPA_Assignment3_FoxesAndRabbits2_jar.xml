@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PPA_Assignment3_FoxesAndRabbits2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PPA_Assignment3_FoxesAndRabbits2_jar</output-path>
+    <root id="archive" name="PPA_Assignment3_FoxesAndRabbits2.jar">
+      <element id="module-output" name="PPA_Assignment3_FoxesAndRabbits2" />
+    </root>
+  </artifact>
+</component>
